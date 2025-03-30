@@ -1,0 +1,26 @@
+{
+  "name": "EngagementActivity",
+  "hasEvents": true,
+  "hasQueryLang": true,
+  "hasController": true,
+  "hasResource": true,
+  "hasConverter": true,
+  "hasValidation": true,
+  "hasDomainModel": true,
+  "hasTests": true,
+  "hasAutofacModuleRegistration": true,
+  "contractFields": [
+    {
+      "name": "Id",
+      "type": "int"
+    },
+    {
+      "name": "Description",
+      "type": "string"
+    },
+    {
+      "name": "Date",
+      "type": "DateTime"
+    }
+  ]
+}
